@@ -1,0 +1,13 @@
+id: PAAE0ECE5
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 6,06: Nidāna'
+  language: bo
+  volumes:
+    aa6d23eaa57c4116b79bc5c9c5232efb:
+      title: Nidāna
+      base_file: Nidāna.txt
+      work_id: WC77C731D
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:55:59.601909'
+last_modified_at: '2022-03-01T22:55:59.601918'
